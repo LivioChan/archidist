@@ -1,0 +1,5 @@
+package fr.scholanova.eial.archidist.PresentationEjb;
+
+public class EjbSingleton {
+
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="fr.scholanova.eial.archidist.PresentationEjbInterface.CalculInterface"/>
+<fullyQualifiedTypeName name="javax.ejb.Remote"/>
+<fullyQualifiedTypeName name="javax.ejb.Singleton"/>
+<fullyQualifiedTypeName name="java.util.Properties"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
+<fullyQualifiedTypeName name="fr.scholanova.eial.archidist.PresentationEjbInterface.MangerInterface"/>
+<fullyQualifiedTypeName name="fr.scholanova.eial.archidist.PresentationEjbInterface.Repas"/>
+<fullyQualifiedTypeName name="javax.ejb.Stateless"/>
+<fullyQualifiedTypeName name="fr.scholanova.eial.archidist.PresentationEjbInterface.IEjbTestEtat"/>
+</qualifiedTypeNameHistroy>
